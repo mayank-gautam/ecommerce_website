@@ -88,7 +88,7 @@
 <body>
   <section style="margin-left: 300px; margin-right: 300px;">
     <h2 align="center">Product Delete Form</h2>
-    <form class="delete-form" action="/ankit_jain/Ank_Product_PHP/admin/admin_deleted.php" method="POST">
+    <form class="delete-form" action="/mayank.gautam/EcommerceWebsite/admin/admin_deleted.php" method="POST">
       <label>Enter Product Id:</label>
       <input type="text" name="product_id" placeholder="Product Id Number"/>
 

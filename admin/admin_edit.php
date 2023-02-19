@@ -96,7 +96,7 @@
   <body>
       <section style="margin-left: 300px; margin-right: 300px;">
         <h2 align="center">Product Update Form</h2>
-        <form class="add-form" action="/ankit_jain/Ank_Product_PHP/admin/admin_updated.php" method="POST">
+        <form class="add-form" action="/mayank.gautam/EcommerceWebsite/admin/admin_updated.php" method="POST">
             <?php
                 if(isset($_POST['submit']))
                 {

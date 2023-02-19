@@ -317,7 +317,7 @@
         <div class="form-container sign-up-container">
 
             <!--ACCOUNT CREATE FORM-->
-            <form name="signUp" action="/ankit_jain/Ank_Product_PHP/register.php" method="POST" onsubmit="return formValidation()">
+            <form name="signUp" action="/mayank.gautam/EcommerceWebsite/register.php" method="POST" onsubmit="return formValidation()">
                 <h1>Create Account</h1>
                 <div class="social-container">
                     <a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
@@ -338,7 +338,7 @@
 
         <!--SIGN IN FORM-->
         <div class="form-container sign-in-container">
-            <form name="signIn" action="/ankit_jain/Ank_Product_PHP/login.php" method="POST" onsubmit="return formValidation2()">
+            <form name="signIn" action="/mayank.gautam/EcommerceWebsite/login.php" method="POST" onsubmit="return formValidation2()">
                 <h1>Sign in</h1>
                 <div class="social-container">
                     <a href="#" class="social"><i class="fab fa-facebook-f"></i></a>
@@ -348,7 +348,7 @@
                 <span>Use your email account</span>
                 <input name="email2" type="email" placeholder="Email" />
                 <input name="password2" type="password" placeholder="Password" />
-                <a href="/ankit_jain/Ank_Product_PHP/error.php">Forgot your password?</a>
+                <a href="/mayank.gautam/EcommerceWebsite/error.php">Forgot your password?</a>
                 <span id="error1"></span>     
                 <!--Code works for button also--> 
                 <button id="signin" name="signin">Sign In</button>

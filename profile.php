@@ -102,13 +102,13 @@
 <body>
   <header>
     <div class="box" id="headerBar">
-      <a href="/ankit_jain/Ank_Product_PHP/index.php"><img src="static/site_logo.png" alt="BuyWise" /></a>
+      <a href="/mayank.gautam/EcommerceWebsite/index.php"><img src="static/site_logo.png" alt="BuyWise" /></a>
       <span></span>
       <nav>
-        <a href="/ankit_jain/Ank_Product_PHP/index.php">Home</a>
-        <a href="/ankit_jain/Ank_Product_PHP/enter.php">Product</a>
-        <a href="/ankit_jain/Ank_Product_PHP/about.php">About us</a>
-        <a href="/ankit_jain/Ank_Product_PHP/contact.php">Contact us</a>
+        <a href="/mayank.gautam/EcommerceWebsite/index.php">Home</a>
+        <a href="/mayank.gautam/EcommerceWebsite/enter.php">Product</a>
+        <a href="/mayank.gautam/EcommerceWebsite/about.php">About us</a>
+        <a href="/mayank.gautam/EcommerceWebsite/contact.php">Contact us</a>
         <button type="button" class="btn btn-primary" id="logout_btn" style="margin-top: -9px;">Logout</button>
       </nav>
     </div>
@@ -193,7 +193,7 @@
     <script>
       $(document).ready(function f() {
         $('#logout_btn').click(function f() {
-          window.location.href = "/ankit_jain/Ank_Product_PHP/logout.php"
+          window.location.href = "/mayank.gautam/EcommerceWebsite/logout.php"
         });
       });
     </script>

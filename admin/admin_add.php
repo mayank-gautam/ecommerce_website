@@ -99,7 +99,7 @@
 <body>
     <section style="margin-left:300px; margin-right: 300px;">
         <h2 align="center">Product Add Form</h2>
-        <form class="add-form" action="/ankit_jain/Ank_Product_PHP/admin/admin_added.php" method="POST">
+        <form class="add-form" action="/mayank.gautam/EcommerceWebsite/admin/admin_added.php" method="POST">
             <label>Product Id:</label>
             <input type="text" name="prod_id">
 

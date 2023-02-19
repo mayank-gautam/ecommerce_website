@@ -81,7 +81,7 @@
       <a href="https://github.com/"><img src="static/github.png" alt="GT" /></a>
       <a href="https://www.instagram.com/"><img src="static/instragram.png" alt="IG" /></a>
     </div>
-    <p id="copy">© Copyright 2022. Ankit Jain. All Rights Reserved.</p>
+    <p id="copy">© Copyright 2022. Mayank Gautam. All Rights Reserved.</p>
   </footer>
 </body>
 

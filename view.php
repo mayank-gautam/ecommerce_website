@@ -121,7 +121,7 @@
         <h1><span>Stock your Groceries </span>For the Month &nbsp; &#128516 &#128515</h1>
         <p>Hurry Up!! Shop now and get the best deals across all products.</p>
         <div class="btn-BuyNow">
-          <a href="/ankit_jain/Ank_Product_PHP/products.php">
+          <a href="/mayank.gautam/EcommerceWebsite/products.php">
             <div>
               <img src="static/shopping-cart 1.png" alt="" />
               <p>Buy Now</p>

@@ -63,11 +63,11 @@
 <body>
   <header>
     <div class="box" id="headerBar">
-      <a href="/ankit_jain/Ank_Product_PHP/index.php"><img src="static/site_logo.png" alt="BuyWise" /></a>
+      <a href="/mayank.gautam/EcommerceWebsite/index.php"><img src="static/site_logo.png" alt="BuyWise" /></a>
       <span></span>
       <nav>
-        <a href="/ankit_jain/Ank_Product_PHP/index.php">Home</a>
-        <a href="/ankit_jain/Ank_Product_PHP/cart.php">
+        <a href="/mayank.gautam/EcommerceWebsite/index.php">Home</a>
+        <a href="/mayank.gautam/EcommerceWebsite/cart.php">
           <?php
             if(isset($_SESSION['user']))
             {
@@ -79,9 +79,9 @@
             }
           ?>
         </a>
-        <a href="/ankit_jain/Ank_Product_PHP/about.php">About us</a>
-        <a href="/ankit_jain/Ank_Product_PHP/contact.php">Contact us</a>
-        <a href="/ankit_jain/Ank_Product_PHP/cart.php">
+        <a href="/mayank.gautam/EcommerceWebsite/about.php">About us</a>
+        <a href="/mayank.gautam/EcommerceWebsite/contact.php">Contact us</a>
+        <a href="/mayank.gautam/EcommerceWebsite/cart.php">
           <?php
             if(isset($_SESSION['user']))
             {
@@ -114,7 +114,7 @@
   <script>
     $(document).ready(function F1() {
       $('#login_btn').click(function f() {
-        window.location.href = "/ankit_jain/Ank_Product_PHP/profile.php"
+        window.location.href = "/mayank.gautam/EcommerceWebsite/profile.php"
       });
     });
   </script>

@@ -63,13 +63,13 @@
 <body>
   <header>
     <div class="box" id="headerBar">
-      <a href="/ankit_jain/Ank_Product_PHP/admin.php"><img src="../static/site_logo.png" alt="BuyWise" /></a>
+      <a href="/mayank.gautam/EcommerceWebsite/admin.php"><img src="../static/site_logo.png" alt="BuyWise" /></a>
       <span></span>
       <nav>
-        <a href="/ankit_jain/Ank_Product_PHP/admin/admin_view.php">View Item</a>
-        <a href="/ankit_jain/Ank_Product_PHP/admin/admin_add.php">Add Item</a>
-        <a href="/ankit_jain/Ank_Product_PHP/admin/admin_update.php">Update Item</a>
-        <a href="/ankit_jain/Ank_Product_PHP/admin/admin_delete.php">Delete Item</a>
+        <a href="/mayank.gautam/EcommerceWebsite/admin/admin_view.php">View Item</a>
+        <a href="/mayank.gautam/EcommerceWebsite/admin/admin_add.php">Add Item</a>
+        <a href="/mayank.gautam/EcommerceWebsite/admin/admin_update.php">Update Item</a>
+        <a href="/mayank.gautam/EcommerceWebsite/admin/admin_delete.php">Delete Item</a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <button type="button" class="btn btn-primary" id="login_btn" style="margin-top: -9px;">
         <?php
@@ -92,7 +92,7 @@
   <script>
     $(document).ready(function f() {
       $('#login_btn').click(function f() {
-        window.location.href = "/ankit_jain/Ank_Product_PHP/logout.php"
+        window.location.href = "/mayank.gautam/EcommerceWebsite/logout.php"
       });
     });
   </script>

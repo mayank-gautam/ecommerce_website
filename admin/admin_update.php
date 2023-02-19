@@ -184,7 +184,7 @@
 <body>
     <section style="margin-left: 300px; margin-right: 300px;">
       <h2 align="center">Product Update Form</h2>
-      <form class="update-form" action="/ankit_jain/Ank_Product_PHP/admin/admin_edit.php" method="POST">
+      <form class="update-form" action="/mayank.gautam/EcommerceWebsite/admin/admin_edit.php" method="POST">
         <label>Enter Product Id:</label>
         <input type="text" name="product_id" placeholder="Product Id Number"/>
   

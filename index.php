@@ -125,11 +125,11 @@
                     <?php 
                         if(!isset($_SESSION['user']))
                         {
-                            echo '/ankit_jain/Ank_Product_PHP/enter.php';
+                            echo '/mayank.gautam/EcommerceWebsite/enter.php';
                         }
                         else
                         {
-                            echo '/ankit_jain/Ank_Product_PHP/products.php';
+                            echo '/mayank.gautam/EcommerceWebsite/products.php';
                         }
                     ?>
                 ">

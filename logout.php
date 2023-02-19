@@ -64,7 +64,7 @@
     <script>
         $(document).ready(function f() {
           $('#login').click(function f1(){
-            window.location.href = "/ankit_jain/Ank_Product_PHP/";
+            window.location.href = "/mayank.gautam/EcommerceWebsite/";
           });
         });
     </script>
