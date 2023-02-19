@@ -4,7 +4,7 @@
     try
     {
         if(isset($_SESSION['user']))
-        {
+        {   // This line redirect to view.php
             header("Location: view.php");
         }
         else
